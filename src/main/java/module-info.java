@@ -17,4 +17,6 @@ module com.example.demo {
     exports part6;// to javafx.graphics;
     opens combo to javafx.fxml;
     exports  combo;
+    opens treeView to javafx.fxml;
+    exports treeView;
 }

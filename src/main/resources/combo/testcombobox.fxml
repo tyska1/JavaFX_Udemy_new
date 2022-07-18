@@ -6,8 +6,6 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.ListView?>
 <?import javafx.scene.layout.AnchorPane?>
-<?import javafx.collections.*?>
-<?import java.lang.*?>
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="combo.TestComboBoxController">
    <children>
@@ -20,17 +18,8 @@
       </ComboBox>
       <Label fx:id="myLabel" layoutX="64.0" layoutY="18.0" prefHeight="129.0" prefWidth="166.0" />
       <Button fx:id="btn1" layoutX="112.0" layoutY="270.0" mnemonicParsing="false" onAction="#buttonCombo" text="Add Items" />
-      <ListView fx:id="myListView" layoutX="324.0" layoutY="14.0" prefHeight="345.0" prefWidth="228.0" >
-         <items>
-            <FXCollections fx:factory="observableArrayList">
-               <String fx:value="First item"/>
-               <String fx:value="Second item"/>
-               <String fx:value="Third item"/>
-               <String fx:value="Fourth item"/>
+      <ListView fx:id="myListView" layoutX="324.0" layoutY="14.0" prefHeight="345.0" prefWidth="228.0">
 
-
-            </FXCollections>
-         </items>
       </ListView>
    </children>
 </AnchorPane>
