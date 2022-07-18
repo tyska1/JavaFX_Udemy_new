@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="part 6 and solving shitty problem">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="part 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/part6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/part6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/part6/testcode.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/part6/testcode.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658138753953</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="part 7">
+      <created>1658140597775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658140597775</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,7 +143,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="part 3 and 4" />
     <MESSAGE value="part 6 and solving shitty problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="part 6 and solving shitty problem" />
+    <MESSAGE value="part 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="part 7" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
