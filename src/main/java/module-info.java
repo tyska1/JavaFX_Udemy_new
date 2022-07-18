@@ -15,4 +15,6 @@ module com.example.demo {
     exports com.example.demo;
     opens part6 to javafx.fxml;
     exports part6;// to javafx.graphics;
+    opens combo to javafx.fxml;
+    exports  combo;
 }

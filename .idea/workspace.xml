@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="part 8">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/part6/application.css" afterDir="false" />
+    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="the end of second module">
+      <change afterPath="$PROJECT_DIR$/src/main/java/combo/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/combo/TestComboBoxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/combo/application2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/combo/testcombobox.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/part6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/part6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/part6/testcode.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/part6/testcode.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="FxmlFile" />
         <option value="Class" />
-        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -58,7 +61,7 @@
       <recent name="C:\Users\m.marszalek\IdeaProjects\demo\src\main\part6\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.HelloApplication" />
       <module name="demo" />
@@ -72,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part6.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combo.Main2" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +89,12 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.HelloApplication" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.HelloApplication" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloApplication" />
@@ -135,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658141057683</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="the end of second module">
+      <created>1658143407911</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658143407911</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +164,8 @@
     <MESSAGE value="part 6 and solving shitty problem" />
     <MESSAGE value="part 7" />
     <MESSAGE value="part 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="part 8" />
+    <MESSAGE value="the end of second module" />
+    <option name="LAST_COMMIT_MESSAGE" value="the end of second module" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
