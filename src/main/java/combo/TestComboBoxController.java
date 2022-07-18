@@ -17,11 +17,15 @@ public class TestComboBoxController implements Initializable {
     public Label myLabel;
     @FXML
     public Button btn1;
+    @FXML
+    public ListView<String> myListView;
+
     ObservableList<String> list = FXCollections.observableArrayList("Mango", "Apple", "Orange", "Cashew", "PawPaw");
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
-        //mycombobox.setItems(list); //do listy recznej wykomentowane
+        //mycombobox.setItems(list); //do listy recznej wykomentowane, a potem po coś wykomentował
+        //myListView.setItems(list);
     }
 
     public void comboChanged(ActionEvent event){
@@ -29,6 +33,13 @@ public class TestComboBoxController implements Initializable {
     }
 
     public void buttonCombo(ActionEvent event){
-        mycombobox.getItems().addAll("Car", "House", "School", "Juice");
+        //mycombobox.getItems().addAll("Car", "House", "School", "Juice");
+        //myListView.getItems().addAll("Car", "House", "School", "Juice");
+        //wyświetlenie elementów listy w konsoli
+        ObservableList<String> names;
+        names = myListView.getSelectionModel().getSelectedItems();
+        for(String name : names){
+            System.out.println(name);
+        }
     }
 }
