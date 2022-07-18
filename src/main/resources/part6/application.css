@@ -1,0 +1,22 @@
+.button
+{
+    -fx-font-size: 50px;
+    -fx-background-color:rgba(255, 255, 255, .80);
+    -fx-text-fill: red;
+    -fx-padding:8 8 8 8;
+    -fx-border-radius:10;
+    -fx-font-weight: bold;
+}
+#myLabel
+{
+    -fx-font-size: 50px;
+    -fx-background-color:rgba(255, 255, 255, .80);
+    -fx-text-fill: red;
+    -fx-padding:8 8 8 8;
+    -fx-border-radius:10;
+    -fx-font-weight: bold;
+}
+.root
+{
+ -fx-background-color: pink;
+}
