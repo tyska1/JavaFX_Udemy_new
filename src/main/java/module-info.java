@@ -23,4 +23,6 @@ module com.example.demo {
     exports filechooser;
     opens javafx_properties to javafx.fxml;
     exports javafx_properties;
+    opens slider to javafx.fxml;
+    exports slider;
 }
