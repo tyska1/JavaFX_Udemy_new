@@ -25,4 +25,6 @@ module com.example.demo {
     exports javafx_properties;
     opens slider to javafx.fxml;
     exports slider;
+    opens menubar to javafx.fxml;
+    exports menubar;
 }
