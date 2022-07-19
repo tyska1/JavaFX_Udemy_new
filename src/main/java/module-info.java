@@ -21,4 +21,6 @@ module com.example.demo {
     exports treeView;
     opens filechooser to javafx.fxml;
     exports filechooser;
+    opens javafx_properties to javafx.fxml;
+    exports javafx_properties;
 }
