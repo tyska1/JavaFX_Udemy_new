@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="ListView all modules">
-      <change afterPath="$PROJECT_DIR$/src/main/java/treeView/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/treeView/application3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/treeView/tree.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="module 5 episode 19" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658147461924</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="module 5 episode 19">
+      <created>1658149279079</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658149279079</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +180,8 @@
     <MESSAGE value="the end of second module" />
     <MESSAGE value="all modules to 14" />
     <MESSAGE value="ListView all modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListView all modules" />
+    <MESSAGE value="module 5 episode 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 5 episode 19" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
