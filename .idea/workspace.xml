@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="module 7 episode 28 - slider with textfield">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chceckbox/Main8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/menubar/Main7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/menubar/menuBarController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/menubar/menubar.fxml" afterDir="false" />
+    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="module 7 episode 29 - menubar">
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkbox/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkbox/checkBoxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/checkbox/chechbox.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
@@ -21,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -62,7 +61,7 @@
       <recent name="C:\Users\m.marszalek\IdeaProjects\demo\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main7">
+  <component name="RunManager" selected="Application.Main8">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.HelloApplication" />
       <module name="demo" />
@@ -76,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main7" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="menubar.Main7" />
+    <configuration name="Main8" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="checkbox.Main8" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -90,12 +89,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main7" />
+      <item itemvalue="Application.Main8" />
       <item itemvalue="Application.HelloApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main7" />
+        <item itemvalue="Application.Main8" />
         <item itemvalue="Application.HelloApplication" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloApplication" />
@@ -230,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658223510624</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="module 7 episode 29 - menubar">
+      <created>1658228203067</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1658228203067</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,7 +268,8 @@
     <MESSAGE value="module 7 episode 26 - javafx properties" />
     <MESSAGE value="module 7 episode 27 - progress features" />
     <MESSAGE value="module 7 episode 28 - slider with textfield" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 7 episode 28 - slider with textfield" />
+    <MESSAGE value="module 7 episode 29 - menubar" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 7 episode 29 - menubar" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

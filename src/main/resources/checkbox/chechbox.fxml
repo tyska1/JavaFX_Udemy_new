@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="381.0" prefWidth="413.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="checkbox.checkBoxController">
+   <children>
+      <CheckBox fx:id="checkbox2" layoutX="79.0" layoutY="172.0" mnemonicParsing="false" onAction="#checkAction" text="Hause" />
+      <CheckBox fx:id="checkbox1" layoutX="79.0" layoutY="123.0" mnemonicParsing="false" onAction="#checkAction" text="Car" />
+      <CheckBox fx:id="checkbox3" layoutX="80.0" layoutY="217.0" mnemonicParsing="false" onAction="#checkAction" text="School" />
+      <Label fx:id="myLabelOne" layoutX="29.0" layoutY="30.0" prefHeight="65.0" prefWidth="159.0" />
+      <Label fx:id="myLabelTwo" layoutX="31.0" layoutY="273.0" prefHeight="66.0" prefWidth="174.0" />
+   </children>
+</AnchorPane>

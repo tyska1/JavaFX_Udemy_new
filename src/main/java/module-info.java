@@ -27,4 +27,6 @@ module com.example.demo {
     exports slider;
     opens menubar to javafx.fxml;
     exports menubar;
+    opens checkbox to javafx.fxml;
+    exports checkbox;
 }
