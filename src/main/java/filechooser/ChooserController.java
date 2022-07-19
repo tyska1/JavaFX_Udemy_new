@@ -16,7 +16,9 @@ public class ChooserController {
     public void buttonAction(ActionEvent event){
         FileChooser fc = new FileChooser();
         //domyślny katalog
-        fc.setInitialDirectory(new File("C:\\Users\\m.marszalek\\IdeaProjects\\demo\\src\\main\\resources\\treeView"));
+        fc.setInitialDirectory(new File("C:\\Users"));
+        //adding filter np. png files only *.png, pamiętać, że to stringi
+        fc.getExtensionFilters().addAll(new FileChooser.ExtensionFilter("PDF Files only", "*.pdf"));
         File selectedFile = fc.showOpenDialog(null);
         if(selectedFile != null){
             listview.getItems().add(selectedFile.getName());
