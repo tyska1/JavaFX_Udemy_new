@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="module 6 episode 25 - selecting multiple files">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javafx_properties/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javafx_properties/OurProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javafx_properties/PropertiesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx_properties/javafx_properties.fxml" afterDir="false" />
+    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="module 7 episode 26 - javafx properties">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javafx_properties/PropertiesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javafx_properties/PropertiesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/javafx_properties/javafx_properties.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/javafx_properties/javafx_properties.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658218431500</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="module 7 episode 26 - javafx properties">
+      <created>1658221400370</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658221400370</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,7 +242,8 @@
     <MESSAGE value="module 6 episode 23- creating file chooser" />
     <MESSAGE value="module 6 episode 24 - filtering files" />
     <MESSAGE value="module 6 episode 25 - selecting multiple files" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 6 episode 25 - selecting multiple files" />
+    <MESSAGE value="module 7 episode 26 - javafx properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 7 episode 26 - javafx properties" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
