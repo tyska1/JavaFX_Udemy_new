@@ -35,4 +35,6 @@ module com.example.demo {
     exports tableview;
     opens datepicker to javafx.fxml;
     exports datepicker;
+    opens webview to javafx.fxml;
+    exports webview;
 }
