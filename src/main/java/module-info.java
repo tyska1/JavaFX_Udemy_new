@@ -19,4 +19,6 @@ module com.example.demo {
     exports  combo;
     opens treeView to javafx.fxml;
     exports treeView;
+    opens filechooser to javafx.fxml;
+    exports filechooser;
 }
