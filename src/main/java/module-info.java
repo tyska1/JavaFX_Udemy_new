@@ -31,4 +31,8 @@ module com.example.demo {
     exports checkbox;
     opens radiobutton to javafx.fxml;
     exports radiobutton;
+    opens tableview to javafx.fxml;
+    exports tableview;
+    opens datepicker to javafx.fxml;
+    exports datepicker;
 }
