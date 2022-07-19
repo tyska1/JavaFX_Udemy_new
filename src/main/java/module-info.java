@@ -29,4 +29,6 @@ module com.example.demo {
     exports menubar;
     opens checkbox to javafx.fxml;
     exports checkbox;
+    opens radiobutton to javafx.fxml;
+    exports radiobutton;
 }

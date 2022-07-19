@@ -4,8 +4,7 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.layout.AnchorPane?>
 
-
-<AnchorPane prefHeight="381.0" prefWidth="413.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="checkbox.checkBoxController">
+<AnchorPane prefHeight="381.0" prefWidth="413.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="checkbox.checkBoxController">
    <children>
       <CheckBox fx:id="checkbox2" layoutX="79.0" layoutY="172.0" mnemonicParsing="false" onAction="#checkAction" text="Hause" />
       <CheckBox fx:id="checkbox1" layoutX="79.0" layoutY="123.0" mnemonicParsing="false" onAction="#checkAction" text="Car" />
