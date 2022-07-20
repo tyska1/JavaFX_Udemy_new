@@ -41,4 +41,6 @@ module com.example.demo {
     exports piechart;
     opens linechart to javafx.fxml;
     exports linechart;
+    opens calculator to javafx.fxml;
+    exports calculator;
 }

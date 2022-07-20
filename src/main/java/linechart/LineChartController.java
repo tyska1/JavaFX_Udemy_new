@@ -46,7 +46,7 @@ public class LineChartController {
             data.getNode().addEventHandler(MouseEvent.MOUSE_ENTERED, new EventHandler<MouseEvent>() {
                 @Override
                 public void handle(MouseEvent mouseEvent) {
-                    myLabel.setText("x: " +  data.getXValue() + "\nY: " + String.valueOf(data.getYValue()));
+                    myLabel.setText("x: " +  data.getXValue() + "\nY: " + String.valueOf(data.getYValue())  );
                     Tooltip.install(data.getNode(), new Tooltip("x: " +  data.getXValue() + "\nY: " + String.valueOf(data.getYValue())));
                 }
             });
