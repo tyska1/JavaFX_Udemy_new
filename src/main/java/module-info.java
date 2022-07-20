@@ -37,4 +37,6 @@ module com.example.demo {
     exports datepicker;
     opens webview to javafx.fxml;
     exports webview;
+    opens piechart to javafx.fxml;
+    exports piechart;
 }
