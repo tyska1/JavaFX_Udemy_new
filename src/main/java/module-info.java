@@ -43,4 +43,6 @@ module com.example.demo {
     exports linechart;
     opens calculator to javafx.fxml;
     exports calculator;
+    opens login to javafx.fxml;
+    exports login;
 }
