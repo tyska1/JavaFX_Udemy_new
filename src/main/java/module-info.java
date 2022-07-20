@@ -39,4 +39,6 @@ module com.example.demo {
     exports webview;
     opens piechart to javafx.fxml;
     exports piechart;
+    opens linechart to javafx.fxml;
+    exports linechart;
 }
