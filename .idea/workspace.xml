@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="module 10 - calculator">
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/Main15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/login/dog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/login/login.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/login/newPage.fxml" afterDir="false" />
+    <list default="true" id="92d90016-f316-4a09-9dd6-e7411ceb7076" name="Changes" comment="module 11 - login page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658309969149</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="module 11 - login page">
+      <created>1658315435051</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1658315435051</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,7 +328,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="part 6 and solving shitty problem" />
     <MESSAGE value="part 7" />
     <MESSAGE value="part 8" />
     <MESSAGE value="the end of second module" />
@@ -352,7 +352,8 @@
     <MESSAGE value="module 8 episode 35 and 36 - piechart" />
     <MESSAGE value="module 8 episode 37,38,39,40 - linechart" />
     <MESSAGE value="module 10 - calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 10 - calculator" />
+    <MESSAGE value="module 11 - login page" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 11 - login page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
